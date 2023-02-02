@@ -1,0 +1,377 @@
+{
+    "m_SelectedDeviceId": "19101JEC200086",
+    "m_SelectedPackage": {
+        "deviceId": "19101JEC200086",
+        "name": "com.DefaultCompany.theproblemcat",
+        "processId": 29553,
+        "exited": false
+    },
+    "m_SelectedPriority": 0,
+    "m_KnownPackagesForSerialization": [
+        {
+            "deviceId": "19101JEC200086",
+            "name": "com.DefaultCompany.theproblemcat",
+            "processId": 17201,
+            "exited": false
+        },
+        {
+            "deviceId": "19101JEC200086",
+            "name": "com.DefaultCompany.theproblemcat",
+            "processId": 17915,
+            "exited": false
+        },
+        {
+            "deviceId": "19101JEC200086",
+            "name": "com.DefaultCompany.theproblemcat",
+            "processId": 18819,
+            "exited": false
+        },
+        {
+            "deviceId": "19101JEC200086",
+            "name": "com.DefaultCompany.theproblemcat",
+            "processId": 19847,
+            "exited": false
+        },
+        {
+            "deviceId": "19101JEC200086",
+            "name": "com.DefaultCompany.theproblemcat",
+            "processId": 20187,
+            "exited": false
+        },
+        {
+            "deviceId": "19101JEC200086",
+            "name": "com.DefaultCompany.theproblemcat",
+            "processId": 20469,
+            "exited": false
+        },
+        {
+            "deviceId": "19101JEC200086",
+            "name": "com.DefaultCompany.theproblemcat",
+            "processId": 20747,
+            "exited": false
+        },
+        {
+            "deviceId": "19101JEC200086",
+            "name": "com.DefaultCompany.theproblemcat",
+            "processId": 21116,
+            "exited": false
+        },
+        {
+            "deviceId": "19101JEC200086",
+            "name": "com.DefaultCompany.theproblemcat",
+            "processId": 21353,
+            "exited": false
+        },
+        {
+            "deviceId": "19101JEC200086",
+            "name": "com.DefaultCompany.theproblemcat",
+            "processId": 21991,
+            "exited": false
+        },
+        {
+            "deviceId": "19101JEC200086",
+            "name": "com.DefaultCompany.theproblemcat",
+            "processId": 23693,
+            "exited": false
+        },
+        {
+            "deviceId": "19101JEC200086",
+            "name": "com.DefaultCompany.theproblemcat",
+            "processId": 24632,
+            "exited": false
+        },
+        {
+            "deviceId": "19101JEC200086",
+            "name": "com.DefaultCompany.theproblemcat",
+            "processId": 24947,
+            "exited": false
+        },
+        {
+            "deviceId": "19101JEC200086",
+            "name": "com.DefaultCompany.theproblemcat",
+            "processId": 25427,
+            "exited": false
+        },
+        {
+            "deviceId": "19101JEC200086",
+            "name": "com.DefaultCompany.theproblemcat",
+            "processId": 25961,
+            "exited": false
+        },
+        {
+            "deviceId": "19101JEC200086",
+            "name": "com.DefaultCompany.theproblemcat",
+            "processId": 26306,
+            "exited": false
+        },
+        {
+            "deviceId": "19101JEC200086",
+            "name": "com.DefaultCompany.theproblemcat",
+            "processId": 26675,
+            "exited": false
+        },
+        {
+            "deviceId": "19101JEC200086",
+            "name": "com.DefaultCompany.theproblemcat",
+            "processId": 27567,
+            "exited": false
+        },
+        {
+            "deviceId": "19101JEC200086",
+            "name": "com.DefaultCompany.theproblemcat",
+            "processId": 27925,
+            "exited": false
+        },
+        {
+            "deviceId": "19101JEC200086",
+            "name": "com.DefaultCompany.theproblemcat",
+            "processId": 28254,
+            "exited": false
+        },
+        {
+            "deviceId": "19101JEC200086",
+            "name": "com.DefaultCompany.theproblemcat",
+            "processId": 28583,
+            "exited": false
+        },
+        {
+            "deviceId": "19101JEC200086",
+            "name": "com.DefaultCompany.theproblemcat",
+            "processId": 29735,
+            "exited": false
+        },
+        {
+            "deviceId": "19101JEC200086",
+            "name": "com.DefaultCompany.theproblemcat",
+            "processId": 30738,
+            "exited": false
+        },
+        {
+            "deviceId": "19101JEC200086",
+            "name": "com.DefaultCompany.theproblemcat",
+            "processId": 31015,
+            "exited": false
+        },
+        {
+            "deviceId": "19101JEC200086",
+            "name": "com.DefaultCompany.theproblemcat",
+            "processId": 31393,
+            "exited": false
+        },
+        {
+            "deviceId": "19101JEC200086",
+            "name": "com.DefaultCompany.theproblemcat",
+            "processId": 31746,
+            "exited": false
+        },
+        {
+            "deviceId": "19101JEC200086",
+            "name": "com.DefaultCompany.theproblemcat",
+            "processId": 2875,
+            "exited": false
+        },
+        {
+            "deviceId": "19101JEC200086",
+            "name": "com.DefaultCompany.theproblemcat",
+            "processId": 3340,
+            "exited": false
+        },
+        {
+            "deviceId": "19101JEC200086",
+            "name": "com.DefaultCompany.theproblemcat",
+            "processId": 3997,
+            "exited": false
+        },
+        {
+            "deviceId": "19101JEC200086",
+            "name": "com.DefaultCompany.theproblemcat",
+            "processId": 17491,
+            "exited": false
+        },
+        {
+            "deviceId": "19101JEC200086",
+            "name": "com.DefaultCompany.theproblemcat",
+            "processId": 17796,
+            "exited": false
+        },
+        {
+            "deviceId": "19101JEC200086",
+            "name": "com.DefaultCompany.theproblemcat",
+            "processId": 19437,
+            "exited": false
+        },
+        {
+            "deviceId": "19101JEC200086",
+            "name": "com.DefaultCompany.theproblemcat",
+            "processId": 26735,
+            "exited": false
+        },
+        {
+            "deviceId": "19101JEC200086",
+            "name": "com.DefaultCompany.theproblemcat",
+            "processId": 27043,
+            "exited": false
+        },
+        {
+            "deviceId": "19101JEC200086",
+            "name": "com.DefaultCompany.theproblemcat",
+            "processId": 29363,
+            "exited": false
+        },
+        {
+            "deviceId": "19101JEC200086",
+            "name": "com.DefaultCompany.theproblemcat",
+            "processId": 32524,
+            "exited": false
+        },
+        {
+            "deviceId": "19101JEC200086",
+            "name": "com.DefaultCompany.theproblemcat",
+            "processId": 16144,
+            "exited": false
+        },
+        {
+            "deviceId": "19101JEC200086",
+            "name": "com.DefaultCompany.theproblemcat",
+            "processId": 26558,
+            "exited": false
+        },
+        {
+            "deviceId": "19101JEC200086",
+            "name": "com.DefaultCompany.theproblemcat",
+            "processId": 26883,
+            "exited": false
+        },
+        {
+            "deviceId": "19101JEC200086",
+            "name": "com.DefaultCompany.theproblemcat",
+            "processId": 7872,
+            "exited": false
+        },
+        {
+            "deviceId": "19101JEC200086",
+            "name": "com.DefaultCompany.theproblemcat",
+            "processId": 8329,
+            "exited": false
+        },
+        {
+            "deviceId": "19101JEC200086",
+            "name": "com.DefaultCompany.theproblemcat",
+            "processId": 8592,
+            "exited": false
+        },
+        {
+            "deviceId": "19101JEC200086",
+            "name": "com.DefaultCompany.theproblemcat",
+            "processId": 8892,
+            "exited": false
+        },
+        {
+            "deviceId": "19101JEC200086",
+            "name": "com.DefaultCompany.theproblemcat",
+            "processId": 9188,
+            "exited": false
+        },
+        {
+            "deviceId": "19101JEC200086",
+            "name": "com.DefaultCompany.theproblemcat",
+            "processId": 9892,
+            "exited": false
+        },
+        {
+            "deviceId": "19101JEC200086",
+            "name": "com.DefaultCompany.theproblemcat",
+            "processId": 12545,
+            "exited": false
+        },
+        {
+            "deviceId": "19101JEC200086",
+            "name": "com.DefaultCompany.theproblemcat",
+            "processId": 12912,
+            "exited": false
+        },
+        {
+            "deviceId": "19101JEC200086",
+            "name": "com.DefaultCompany.theproblemcat",
+            "processId": 13231,
+            "exited": false
+        },
+        {
+            "deviceId": "19101JEC200086",
+            "name": "com.DefaultCompany.theproblemcat",
+            "processId": 29117,
+            "exited": false
+        },
+        {
+            "deviceId": "19101JEC200086",
+            "name": "com.DefaultCompany.theproblemcat",
+            "processId": 29553,
+            "exited": false
+        },
+        {
+            "deviceId": "af98ce16",
+            "name": "com.miui.home",
+            "processId": 2643,
+            "exited": true
+        },
+        {
+            "deviceId": "af98ce16",
+            "name": "com.mi.globalbrowser",
+            "processId": 12773,
+            "exited": true
+        }
+    ],
+    "m_Tags": {
+        "m_Entries": [
+            {
+                "m_Name": "Filter by all listed tags",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "No Filter",
+                "m_Selected": true
+            },
+            {
+                "m_Name": "",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "Tag Control...",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "Unity",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "CRASH",
+                "m_Selected": false
+            }
+        ]
+    },
+    "m_MemoryViewerState": {
+        "MemoryWindowHeight": 300.0,
+        "MemoryWindowWidth": 170.0,
+        "MemoryTypeEnabled": [
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true
+        ],
+        "MemoryGroup": 2,
+        "Behavior": 0
+    },
+    "m_Filter": "",
+    "m_FilterIsRegularExpression": false,
+    "m_SymbolPaths": []
+}
