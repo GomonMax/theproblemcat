@@ -6,9 +6,12 @@ public class VisibilityObject : MonoBehaviour
 {
     [SerializeField] private Transform player;
     [SerializeField] private Transform camera;
+    private Material[] material;
     public float maxDistance;
     public GameObject obj;
-    private bool Misha = false;
+    private bool Misha = false; // не обіжати Мішу
+
+    private Renderer renderer;
 
 
     void Update()
@@ -22,13 +25,14 @@ public class VisibilityObject : MonoBehaviour
             {
                 obj = hit.collider.gameObject;
                 //
+                renderer = obj.GetComponent<Renderer>();
                 Debug.Log(hit.collider.gameObject.name + " FALSE");
                 Misha = true;
             }
         }
         else if(Misha == true)
         {
-            //
+
             Debug.Log(obj.gameObject.name + " TRUE");
         }
 
